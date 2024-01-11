@@ -1,0 +1,4 @@
+RTL commited
+simple TB is done, not commited, because some checkers are added and its not finished 
+python script for generating lfsr.v commited
+1.1. version -> WIDTH, POLYNOMIAL and SEED changed to parameters. 
